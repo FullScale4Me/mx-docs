@@ -1,7 +1,7 @@
-5.mx-docs (25.10.1mx25) UNRELEASED; urgency=medium
+5.mx-docs (25.10.1mx25) mx; urgency=medium
 
   * Non-maintainer upload.
-  * replaced first 15 beta translations with final version
+  * replaced all beta translations with final version
 
  -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 07 Oct 2025 16:38:39 -0400
 
