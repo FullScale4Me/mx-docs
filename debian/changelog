@@ -1,6 +1,7 @@
 mx-docs (25.10.1mx25) mx; urgency=medium
 
   * replaced all beta translations with final version
+  * restored missing files
 
  -- Dolphin Oracle <dolphinoracle@gmail.com>  Fri, 10 Oct 2025 18:51:11 -0400
 
