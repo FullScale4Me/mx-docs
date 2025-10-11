@@ -51,15 +51,6 @@ Provides: mxumfaq
 Description: user FAQ for MX 
  MX FAQ in bulgarian
 
-Package: mx-faq-ca
-Section: doc
-Conflicts:  mx-docs (<20240410)
-Replaces:  mx-docs
-Architecture: all
-Provides: mxumfaq
-Description: user FAQ for MX 
- MX FAQ in catalan
-
 Package: mx-faq-cs
 Section: doc
 Conflicts:  mx-docs (<20240410)
