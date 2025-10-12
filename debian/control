@@ -195,6 +195,15 @@ Provides: mxumfaq
 Description: user FAQ for MX 
  MX FAQ in portugese (Brazil)
  
+Package: mx-faq-ro
+Section: doc
+Conflicts:  mx-docs (<20240410)
+Replaces:  mx-docs
+Architecture: all
+Provides: mxumfaq
+Description: user FAQ for MX 
+ MX FAQ in romanian
+ 
 Package: mx-faq-ru
 Section: doc
 Conflicts:  mx-docs (<20240410)
